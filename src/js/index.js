@@ -4,4 +4,4 @@ const main = document.querySelector('main .main')
 setTimeout(() => {
     incredible.classList.add('none')
     main.classList.add('incredible')
-}, 20000);
+}, 50000);
